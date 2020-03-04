@@ -23,6 +23,6 @@ int main()
 		}
 	}
 	if (!isFound) {
-		cout << "The number " << searchNum << "is not found in the list!!!";
+		cout << "The number " << searchNum << " is not found in the list!!!";
 	}
 }
